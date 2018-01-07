@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment1.params=
+comment1.target=void\ init()
+comment2.params=e\ j
+comment2.target=boolean\ action(java.awt.Event,\ java.lang.Object)
+comment3.params=name\ pswd
+comment3.target=void\ write(java.lang.String,\ java.lang.String)
+numComments=4
